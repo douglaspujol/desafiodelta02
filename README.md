@@ -5,5 +5,5 @@ usando somente HTML e CSS. Por se tratar da tela de um aplicativo, o layout prec
 
 ![gif](https://ik.imagekit.io/kxc61ueka1/Meu_V_deo_RkaXYb1FU.gif)
 
-# Louyt do projeto
+# Lauyt do projeto
 ![projeto finalizado](https://ik.imagekit.io/kxc61ueka1/Sem_t_tulo-1_aBcBb2JNfX.png)
